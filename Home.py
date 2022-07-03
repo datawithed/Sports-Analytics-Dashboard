@@ -21,7 +21,7 @@ st.write("""
           """)
 
 st.markdown("""
-            Use the arrow in the top left to open the sidebar.
+            To navigate the app, use the arrow in the top left to open the sidebar.
             \n### Intro:
             \n Welcome to my Sports Analytics Portfolio Dashboard.
             \n In the "Portfolio" page, you will be able to find examples of my analyses.
