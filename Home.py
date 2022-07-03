@@ -17,6 +17,7 @@ st.set_page_config(page_title = 'Home', page_icon = '🏠', layout = 'wide')
 
 st.write("""
           # Sports Analytics Portfolio ⚽🏀🎾⛳
+          ### By Ed Morris
           """)
 
 st.markdown("""
