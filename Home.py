@@ -13,7 +13,7 @@ import streamlit as st
 # Dashboard config
 #######################
 
-st.set_page_config(page_title = 'Home', page_icon = '🏠', initial_sidebar_state = 'expanded', layout = 'wide')
+st.set_page_config(page_title = 'Home', page_icon = '🏠', layout = 'wide')
 
 st.write("""
           # Sports Analytics Portfolio ⚽🏀🎾⛳
@@ -21,7 +21,8 @@ st.write("""
 
 st.markdown("""
             Welcome to my Sports Analytics Portfolio Dashboard.
-            \n In the "Portfolio" page on the sidebar, you will be able to find examples of my analyses.
+            \n Use the arrow in the top left to open the sidebar.
+            \n In the "Portfolio" page, you will be able to find examples of my analyses.
             \n Feel free to keep up to date with my work by following my socials, or get in touch via email.
             
     ### Contact:
