@@ -27,10 +27,10 @@ st.markdown("""
             \n In the "Portfolio" page, you will be able to find examples of my analyses.
             \n Feel free to keep up to date with my work by following my socials, or get in touch via email.
             
-    ### Contact:
-    - **Email:** datawithed@outlook.com
+### Contact:
+- **Email:** datawithed@outlook.com
             
-    ### Socials:
-    - **Twitter:** @datawithed
-    - **Instagram:** @data_with_ed
+### Socials:
+- **Twitter:** @datawithed
+- **Instagram:** @data_with_ed
             """)
