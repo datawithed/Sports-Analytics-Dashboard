@@ -22,6 +22,7 @@ st.write("""
 
 st.markdown("""
             Use the arrow in the top left to open the sidebar.
+            ### Intro:
             \n Welcome to my Sports Analytics Portfolio Dashboard.
             \n In the "Portfolio" page, you will be able to find examples of my analyses.
             \n Feel free to keep up to date with my work by following my socials, or get in touch via email.
