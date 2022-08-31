@@ -17,7 +17,9 @@ st.markdown("""
             ### Tennis analysis:
             - Australian Open 2019 Final: https://datawithed-ao-2019-ao-2019-final-dashboard-qfhq5f.streamlitapp.com/
             ### Football analysis:
-            - Serie A (Wyscout data): https://datawithed-serie-a-multipage-dash-intro-4yxstz.streamlitapp.com/
+            - Serie A (Wyscout event data): https://datawithed-serie-a-multipage-dash-intro-4yxstz.streamlitapp.com/
+            ### Medium Articles:
+            - https://medium.com/@datawithed
             """)
             
 st.markdown("""
